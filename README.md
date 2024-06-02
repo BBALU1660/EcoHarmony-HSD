@@ -1,7 +1,5 @@
-# EcoHarmony-HTD
-Introducing an advanced transformer model for detecting hate speech and offensive language across all languages. This model analyzes text data, identifying harmful language to promote safer online spaces. Its versatility ensures global effectiveness, fostering toxic-free environments and spreading positivity.
-
-This project provides a hate speech detection tool using Streamlit, leveraging machine learning models trained to identify hate speech in text.
+# EcoHarmony-HSD
+Unlock the potential of our advanced transformer model with text and voice recognition, designed for detecting hate and offensive speech. This cutting-edge tool analyzes both written and spoken language, effectively identifying harmful content. With its robust capabilities, our model offers a comprehensive solution for promoting safer online environments.
 
 ## Setup Instructions
 
