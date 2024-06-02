@@ -14,7 +14,7 @@ Unlock the potential of our advanced transformer model with text and voice recog
 
     ```sh
     git clone https://github.com/your-username/EcoHarmony-SocialPro.git
-    cd EcoHarmony-SocialPro
+    cd EcoHarmony-HSD
     ```
 
 2. **Create and Activate the Environment**
