@@ -82,7 +82,7 @@ For running this project on Google Colab, use the following notebook link:
 2. **Detect Hate Speech**: Click the "Detect" button to analyze the tweet.
 3. **View Results**: Check the prediction and sentiment analysis results.
 
-## Contributing
+### Contributing
 
 Feel free to contribute to this project by creating pull requests, reporting issues, or suggesting improvements.
 
